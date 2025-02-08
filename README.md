@@ -17,7 +17,7 @@ This repository contains **five projects** completed as part of the freeCodeCamp
    - **GitHub Code:** [Survey Form Folder](./Survey%20Form/)
 
 ### 3. **Product Landing Page**
-   - ![Product Landing Page Screenshot](./Screenshots/product-landing-page.png)
+   - ![Product Landing Page Screenshot](./Screenshots/Product-landing-page.png)
    - **Description:** A responsive landing page for promoting a product or service.
    - **Technologies Used:** HTML5, CSS3
    - **GitHub Code:** [Product Landing Page Folder](./Product%20Landing%20Page/FreeCodeCamp/)
