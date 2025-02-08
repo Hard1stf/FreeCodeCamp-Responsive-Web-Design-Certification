@@ -5,7 +5,7 @@ This repository contains **five projects** completed as part of the freeCodeCamp
 ## 📂 Projects Overview
 
 ### 1. **Tribute Page**
-   - ![Tribute Page Screenshot](./Screenshots/tribute-page.png)
+   - ![Tribute Page Screenshot](./Screenshots/Tribute-Page.png)
    - **Description:** A simple, responsive webpage dedicated to a historical or influential figure.
    - **Technologies Used:** HTML5, CSS3
    - **GitHub Code:** [Tribute Page Folder](./Tribute%20Page/)
