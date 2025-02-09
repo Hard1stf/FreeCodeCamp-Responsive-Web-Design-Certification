@@ -46,6 +46,11 @@ These projects were developed as part of the **freeCodeCamp Responsive Web Desig
    cd project-folder-name
    ```
 3. Open `index.html` in your browser to view the project.
+### 👨‍💻 Author
+
+- GitHub: [@Hard1stf](https://github.com/Hard1stf)
+- Twitter: [@Vijeta_X](https://x.com/Vijeta_X)
+- LinkedIn: [Hardik Vijeta](https://www.linkedin.com/in/hardik-vijeta-0a8792217)
 
 ## 🌟 Acknowledgments
 A big thanks to **freeCodeCamp** for providing an excellent platform to learn web development and enhance practical skills through projects.
