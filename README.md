@@ -28,6 +28,12 @@ This repository contains **five projects** completed as part of the freeCodeCamp
    - **Technologies Used:** HTML5, CSS3
    - **GitHub Code:** [Technical Documentation Folder](./Technical%20Documentation/)
 
+### 4. **Personal Portfolio Page**
+   - ![Technical Documentation Screenshot](./Screenshots/personal-portfolio-project.png)
+   - **Description:** A responsive webpage presenting technical documentation for a topic.
+   - **Technologies Used:** HTML5, CSS3
+   - **GitHub Code:** [Technical Documentation Folder](./Personal%20Portfolio/)
+
 
 ## 🏆 Certification
 These projects were developed as part of the **freeCodeCamp Responsive Web Design Certification**, where I gained skills in:
