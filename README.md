@@ -32,6 +32,7 @@ This repository contains **five projects** completed as part of the freeCodeCamp
    - ![Technical Documentation Screenshot](./Screenshots/personal-portfolio-project.png)
    - **Description:** A responsive webpage presenting technical documentation for a topic.
    - **Technologies Used:** HTML5, CSS3
+   - **Live link:** [Live link](https://hardik-vijeta.netlify.app/)
    - **GitHub Code:** [Technical Documentation Folder](./Personal%20Portfolio/)
 
 
